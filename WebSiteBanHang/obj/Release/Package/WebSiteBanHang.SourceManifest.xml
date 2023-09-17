@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Release\Package\PackageTmp" />
+  <setAcl path="E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>

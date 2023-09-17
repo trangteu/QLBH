@@ -1,0 +1,180 @@
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe.config
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.rsp
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.exe
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.exe.config
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.rsp
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Console.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe.config
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.rsp
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.AssemblyReference.cache
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+E:\demo_web\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.exe.config
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csc.rsp
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.exe
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.exe.config
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\csi.rsp
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Console.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.exe.config
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\vbc.rsp
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.AssemblyReference.cache
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+E:\Học Kì I (2023-2024)\Công nghệ điện toán đám mây\WebSiteBanHang\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
